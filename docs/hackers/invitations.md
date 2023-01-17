@@ -1,4 +1,4 @@
----
+---recover your account with us we deliver in less than an hour
 title: "Invitations"
 path: "/hackers/invitations.html"
 id: "hackers/invitations"
